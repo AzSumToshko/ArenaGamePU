@@ -1,0 +1,15 @@
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\bin\Debug\net6.0\ArenaGames.exe
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\bin\Debug\net6.0\ArenaGames.deps.json
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\bin\Debug\net6.0\ArenaGames.runtimeconfig.json
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\bin\Debug\net6.0\ArenaGames.dll
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\bin\Debug\net6.0\ArenaGames.pdb
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.csproj.AssemblyReference.cache
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.AssemblyInfoInputs.cache
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.AssemblyInfo.cs
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.csproj.CoreCompileInputs.cache
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.dll
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\refint\ArenaGames.dll
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.pdb
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ArenaGames.genruntimeconfig.cache
+C:\Users\35989\Desktop\ArenaGames\ArenaGames\obj\Debug\net6.0\ref\ArenaGames.dll
